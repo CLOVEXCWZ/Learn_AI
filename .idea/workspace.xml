@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bc6a020-50ff-4956-a2d7-9e5ea3239410" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/101库学习/105Numpy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/101库学习/105Numpy/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/101库学习/203Keras/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/101库学习/401Typora_工具/110MarkDown_公式.md" beforeDir="false" afterPath="$PROJECT_DIR$/101库学习/401Typora_工具/110MarkDown_公式.md" afterDir="false" />
-    </list>
+    <list default="true" id="7bc6a020-50ff-4956-a2d7-9e5ea3239410" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

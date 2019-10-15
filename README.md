@@ -1,5 +1,11 @@
 # Learn - AI
 
+
+
+[OSChina-看jupyter文件更开哦 -> 点击前往](https://gitee.com/xcwz/Learn_AI/tree/master)
+
+
+
 ​	整个项目由Python学习(包括库学习)、一些基本支持性的知识、机器学习算法、深度学习算法等一整套AI学习的知识体系构成。
 
 ​	项目代码主要由notebook文件为主，主要用md文件进行说明，.py文件为辅助。
