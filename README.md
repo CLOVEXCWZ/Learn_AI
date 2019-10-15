@@ -2,7 +2,7 @@
 
 
 
-[OSChina-看jupyter文件更开哦 -> 点击前往](https://gitee.com/xcwz/Learn_AI/tree/master)
+[OSChina-看jupyter文件更快哦 -> 点击前往](https://gitee.com/xcwz/Learn_AI/tree/master)
 
 
 
