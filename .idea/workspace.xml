@@ -35,9 +35,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="384" />
-    <option name="y" value="412" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="181" />
+    <option name="y" value="62" />
     <option name="width" value="1144" />
     <option name="height" value="771" />
   </component>
@@ -176,14 +176,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="384" y="412" width="1144" height="771" extended-state="0" />
+    <frame x="133" y="181" width="1144" height="771" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30858678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19242424" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19242424" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
