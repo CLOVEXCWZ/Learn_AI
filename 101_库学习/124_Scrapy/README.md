@@ -4,5 +4,14 @@
 
 
 
+## 创建
+
+scrapy startproject [name]
 
 
+
+## 运行
+
+scrapy crawl [name]
+
+scrapy crawl douban_spider
