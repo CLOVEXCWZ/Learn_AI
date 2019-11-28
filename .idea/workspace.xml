@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bc6a020-50ff-4956-a2d7-9e5ea3239410" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/601AI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/601AI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/101_库学习/102_Pandas/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/101_库学习/102_Pandas/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/101_库学习/124_Scrapy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/101_库学习/124_Scrapy/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/101_库学习/203_Keras/201_自定义层/101_MyLayer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/101_库学习/203_Keras/201_自定义层/101_MyLayer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/101_库学习/203_Keras/302_RNN/103_BiLSTM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/101_库学习/203_Keras/302_RNN/103_BiLSTM.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/101_库学习/203_Keras/501_一些用法/101_文本预处理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/101_库学习/203_Keras/501_一些用法/101_文本预处理.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/102_支持性知识/501_服务器操作/201_我的服务器(CL).md" beforeDir="false" afterPath="$PROJECT_DIR$/102_支持性知识/501_服务器操作/201_我的服务器(CL).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/203_深度学习算法/310_Bert/101_load_model/101kera_load_model_extract.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/203_深度学习算法/310_Bert/101_load_model/101kera_load_model_extract.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,6 +28,8 @@
       <find>dense(</find>
       <find>dense(L</find>
       <find>dense</find>
+      <find>word2vec</find>
+      <find>load</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -44,14 +41,15 @@
         <option value="$PROJECT_DIR$/gass.py" />
         <option value="$PROJECT_DIR$/../../Grass/101PythonEnv/envpy3.7/lib/python3.7/site-packages/tensorflow_core/python/keras/engine/__init__.py" />
         <option value="$PROJECT_DIR$/../../Grass/101PythonEnv/envpy3.7/lib/python3.7/site-packages/tensorflow_core/python/keras/layers/__init__.py" />
+        <option value="$PROJECT_DIR$/101_库学习/401_Typora_工具/markdow_catalog.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="438" />
-    <option name="y" value="63" />
-    <option name="width" value="1002" />
-    <option name="height" value="771" />
+    <option name="x" value="207" />
+    <option name="y" value="23" />
+    <option name="width" value="1138" />
+    <option name="height" value="811" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -59,7 +57,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="601AI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="601AI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (envpy3.6) (2) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="601AI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (envpy3.6) (2) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="601AI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (envpy3.6) (2) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="gensim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="601AI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (envpy3.6) (2) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="gensim" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -79,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.__init__">
+  <component name="RunManager" selected="Python.markdow_catalog">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="601AI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,8 +156,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="markdow_catalog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="601AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/101_库学习/401_Typora_工具" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/101_库学习/401_Typora_工具/markdow_catalog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.markdow_catalog" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.gass" />
       </list>
@@ -143,20 +199,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="438" y="63" width="1002" height="771" extended-state="0" />
+    <frame x="207" y="23" width="1138" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2612705" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22841726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19242424" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29285714" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49712643" visible="true" weight="0.21363637" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49712643" visible="true" weight="0.09714286" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50287354" side_tool="true" weight="0.38939393" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -374,6 +431,31 @@
           <caret line="153" column="11" selection-start-line="153" selection-start-column="11" selection-end-line="153" selection-end-column="11" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/101_库学习/401_Typora_工具/110_MarkDown_公式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Grass/101PythonEnv/envpy3.6/lib/python3.6/site-packages/gensim/models/word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="1341" lean-forward="true" selection-start-line="1341" selection-end-line="1341" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/101_库学习/401_Typora_工具/markdow_catalog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="133" column="10" selection-start-line="133" selection-start-column="10" selection-end-line="133" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
